@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm an aspiring full-stack developer, learner, and
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keliaa1&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keliaa1&theme=radical" width="47%" />
 </p>
 
 ---
