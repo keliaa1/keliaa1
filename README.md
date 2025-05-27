@@ -1,14 +1,13 @@
 # 👋 Hi there, I'm Kelia!
 
-Welcome to my GitHub profile! I'm an aspiring full-stack developer, learner, and 3d designer from Rwanda.
+Welcome to my GitHub profile! I'm an aspiring full-stack developer, learner, cybersecurity enthusiasist and 3d designer from Rwanda.
 
 ---
 
 ## 🚀 About Me
 
 - 💻 I’m currently learning **Flutter, typescript and Next.js**
-- 🎯 My goal is to become a **successful software/app developer**
-- 🏀 I’m also a **basketball player** and love building projects around **sports and recruitment platforms**
+- 🎯 My goal is to become a **successful software developer**
 - 🌍 I'm from **Rwanda** 🇷🇼*
 
 ---
