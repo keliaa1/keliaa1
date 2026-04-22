@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Kelia!
+# 👋 Hello there, I'm Kelia!
 
 Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity enthusiasist and 3d designer from Rwanda.
 
