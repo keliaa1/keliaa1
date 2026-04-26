@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm a full-stack developer, learner, cybersecurity
 - LinkedIn: https://www.linkedin.com/in/kelia-simbi-6ab11132b/
 - Portfolio: https://www.thecn.com/SK2372
 - Email: simbikelia@gmail.com
+- Website Portfolio: https://keliais4ward.vercel.app/
 
 ---
 
